@@ -4,6 +4,7 @@
 	<test name="Automated tests">
 		<classes>
 			<class name ="com.cbt.tests.login.LoginTests"></class>
+			<class name ="com.cbt.tests.order.OrderTests"></class>
 		</classes>
 	</test>
 
